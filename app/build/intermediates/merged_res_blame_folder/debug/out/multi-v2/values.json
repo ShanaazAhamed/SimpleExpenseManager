@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Shanaaz Ahamed\\.gradle\\caches\\transforms-2\\files-2.1\\d1d1709d55c8ab5fa359ce49bd908eb5\\design-26.1.0\\res\\values\\values.xml",
@@ -42,22 +42,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "19,31,26,33",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "740,1211,1060,1302",
-                        "endLines": "24,31,29,33",
-                        "endColumns": "12,89,12,79",
-                        "endOffsets": "1054,1296,1205,1377"
+                        "startLines": "28,20,18,30,21,17,27,22,24,26,25,29,34,35,33,31,32,19,23",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1262,887,760,1390,940,702,1219,987,1072,1168,1121,1325,1614,1672,1566,1440,1528,813,1030",
+                        "endColumns": "62,52,52,49,46,57,42,42,48,50,46,64,57,43,47,87,37,73,41",
+                        "endOffsets": "1320,935,808,1435,982,755,1257,1025,1116,1214,1163,1385,1667,1711,1609,1523,1561,882,1067"
                     },
                     "to": {
-                        "startLines": "359,365,366,370",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "24084,24403,24493,24643",
-                        "endLines": "364,365,369,370",
-                        "endColumns": "12,89,12,79",
-                        "endOffsets": "24398,24488,24638,24718"
+                        "startLines": "315,316,317,318,319,320,322,326,332,333,334,335,336,337,338,339,340,347,349",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "20587,20650,20703,20756,20806,20853,21056,21370,21812,21861,21912,21959,22024,22082,22126,22174,22262,23168,23313",
+                        "endColumns": "62,52,52,49,46,57,42,42,48,50,46,64,57,43,47,87,37,73,41",
+                        "endOffsets": "20645,20698,20751,20801,20848,20906,21094,21408,21856,21907,21954,22019,22077,22121,22169,22257,22295,23237,23350"
+                    }
+                },
+                {
+                    "source": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\src\\main\\res\\values\\errors.xml",
+                    "from": {
+                        "startLines": "21,19,18,20,22",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "966,809,741,891,1056",
+                        "endColumns": "89,81,67,74,83",
+                        "endOffsets": "1051,886,804,961,1135"
+                    },
+                    "to": {
+                        "startLines": "327,328,329,330,331",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "21413,21503,21585,21653,21728",
+                        "endColumns": "89,81,67,74,83",
+                        "endOffsets": "21498,21580,21648,21723,21807"
                     }
                 },
                 {
@@ -80,7 +95,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "18,19,21,20",
                         "startColumns": "4,4,4,4",
@@ -97,7 +112,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\src\\main\\res\\values\\configurations.xml",
+                    "source": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\src\\main\\res\\values\\configurations.xml",
                     "from": {
                         "startLines": "18",
                         "startColumns": "4",
@@ -131,37 +146,39 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\src\\main\\res\\values\\errors.xml",
+                    "source": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "21,19,18,20,22",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "966,809,741,891,1056",
-                        "endColumns": "89,81,67,74,83",
-                        "endOffsets": "1051,886,804,961,1135"
+                        "startLines": "19,31,26,33",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "740,1211,1060,1302",
+                        "endLines": "24,31,29,33",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "1054,1296,1205,1377"
                     },
                     "to": {
-                        "startLines": "327,328,329,330,331",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "21413,21503,21585,21653,21728",
-                        "endColumns": "89,81,67,74,83",
-                        "endOffsets": "21498,21580,21648,21723,21807"
+                        "startLines": "359,365,366,370",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "24084,24403,24493,24643",
+                        "endLines": "364,365,369,370",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "24398,24488,24638,24718"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "28,20,18,30,21,17,27,22,24,26,25,29,34,35,33,31,32,19,23",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1262,887,760,1390,940,702,1219,987,1072,1168,1121,1325,1614,1672,1566,1440,1528,813,1030",
-                        "endColumns": "62,52,52,49,46,57,42,42,48,50,46,64,57,43,47,87,37,73,41",
-                        "endOffsets": "1320,935,808,1435,982,755,1257,1025,1116,1214,1163,1385,1667,1711,1609,1523,1561,882,1067"
+                        "startLines": "20,18,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "839,741,788",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "880,783,834"
                     },
                     "to": {
-                        "startLines": "315,316,317,318,319,320,322,326,332,333,334,335,336,337,338,339,340,347,349",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "20587,20650,20703,20756,20806,20853,21056,21370,21812,21861,21912,21959,22024,22082,22126,22174,22262,23168,23313",
-                        "endColumns": "62,52,52,49,46,57,42,42,48,50,46,64,57,43,47,87,37,73,41",
-                        "endOffsets": "20645,20698,20751,20801,20848,20906,21094,21408,21856,21907,21954,22019,22077,22121,22169,22257,22295,23237,23350"
+                        "startLines": "29,30,31",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2019,2065,2112",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "2060,2107,2158"
                     }
                 },
                 {
@@ -196,23 +213,6 @@
                         "startOffsets": "16647,16857,16996,17043,17098,17385,17439,17491,17540,17601",
                         "endColumns": "39,42,46,54,44,53,51,48,60,49",
                         "endOffsets": "16682,16895,17038,17093,17138,17434,17486,17535,17596,17646"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "20,18,19",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "839,741,788",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "880,783,834"
-                    },
-                    "to": {
-                        "startLines": "29,30,31",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "2019,2065,2112",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "2060,2107,2158"
                     }
                 }
             ]

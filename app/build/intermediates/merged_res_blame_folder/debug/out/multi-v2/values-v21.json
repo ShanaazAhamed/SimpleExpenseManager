@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Shanaaz Ahamed\\.gradle\\caches\\transforms-2\\files-2.1\\22201284f06052f57e5af9bcb65a52a3\\appcompat-v7-26.1.0\\res\\values-v21\\values-v21.xml",
@@ -42,6 +42,25 @@
                     }
                 },
                 {
+                    "source": "D:\\CSE\\CS3042 - Database Systems\\10 Embedded Databases\\New folder\\SimpleExpenseManager-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "704",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1000"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "354",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "650"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Shanaaz Ahamed\\.gradle\\caches\\transforms-2\\files-2.1\\d1d1709d55c8ab5fa359ce49bd908eb5\\design-26.1.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5",
@@ -58,25 +77,6 @@
                         "endLines": "172,234",
                         "endColumns": "12,96",
                         "endOffsets": "13084,17520"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Shanaaz Ahamed\\Desktop\\ExpenseManager-Github\\SimpleExpenseManager-master - Copy\\app\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "704",
-                        "endLines": "23",
-                        "endColumns": "12",
-                        "endOffsets": "1000"
-                    },
-                    "to": {
-                        "startLines": "6",
-                        "startColumns": "4",
-                        "startOffsets": "354",
-                        "endLines": "11",
-                        "endColumns": "12",
-                        "endOffsets": "650"
                     }
                 },
                 {

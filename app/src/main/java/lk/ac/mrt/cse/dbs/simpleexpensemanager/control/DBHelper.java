@@ -20,7 +20,7 @@ import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.Transaction;
 
 
 public class DBHelper extends SQLiteOpenHelper{
-    private static final String DB_NAME = "account.db";
+    private static final String DB_NAME = "190023G.db";
     private static final int DB_VERSION = 1;
     private static final String TABLE_ACC = "account";
     private static final String ACC_NO = "accountNo";
